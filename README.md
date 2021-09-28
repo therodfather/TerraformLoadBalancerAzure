@@ -1,4 +1,4 @@
-# TerraformLoadBalancerAzure
+# LoadBalancer.org Appliance with Terraform
 This repo contains a Terraform build for creating an HA-Pair with LoadBalancer.org appliances. Feel free to change as needed to suit your use case.
 
 ## Prereqs:
